@@ -1,0 +1,9 @@
+.customNav{
+  flex-direction: row !important;
+}
+
+@media (max-width: 992px){
+  .customNav li {
+    margin-left: 15px;
+  }
+}
